@@ -33,7 +33,7 @@ class App extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a className="navbar-brand">Tarento</a>
+          <a className="navbar-brand">DyForm</a>
         </nav>
 
         <div className="container">
